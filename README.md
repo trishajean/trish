@@ -1,5 +1,5 @@
 # Trisha Jean Ramos
 # Birthday: October 11, 2003 
-# Hometown: Binangonan, Rizal
-# A UPLB student
-# A Computer Science Major
+# A Computer Science Graduate 
+# Projects I have worked on: Video game (similar to slither.io)
+

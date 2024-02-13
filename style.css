@@ -1,0 +1,28 @@
+.flexbox {
+    display: flex;
+    border: 5px salmon;
+    height: 50vh;
+    width: 50vw; 
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+    
+.item {
+    margin: 5px;
+    background-color: bisque;
+    height: 50px;
+    width: 50px;
+
+
+}
+
+#d1 {
+    order: 1;
+}
+
+#d2 {
+    order: 2; 
+}
