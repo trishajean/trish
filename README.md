@@ -1,3 +1,5 @@
 # Trisha Jean Ramos
 # Birthday: October 11, 2003 
-# A Computer Science Graduate 
+# Hometown: Binangonan, Rizal
+# A UPLB student
+# A Computer Science Major
